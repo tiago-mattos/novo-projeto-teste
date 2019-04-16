@@ -1,6 +1,7 @@
 package aulas;
 
 public class Operadores {
+	//Alterando para pull
 
 	public static void main(String[] args) {
 		Operadores executar = new Operadores();
@@ -23,7 +24,7 @@ public class Operadores {
 		System.out.println(variavelC);
 		System.out.println(variavelD);
 		
-		//Fórmula de Bhaskara
+		//FÃ³rmula de Bhaskara
 		
 		double a = 1.0, b = -3.0, c = -4.0; 
 		
