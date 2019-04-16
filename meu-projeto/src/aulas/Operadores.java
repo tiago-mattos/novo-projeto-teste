@@ -1,7 +1,8 @@
 package aulas;
 
 public class Operadores {
-	//Alterando para pull
+	//Alterando do GitHub: team > Pull
+	// Alterado do Eclipse: Team > Push 
 
 	public static void main(String[] args) {
 		Operadores executar = new Operadores();
