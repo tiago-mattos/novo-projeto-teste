@@ -8,14 +8,14 @@ public class Programa {
 	public static void main(String[] args) {
 		
 		/*
-		 * Abrir tela de atalhos! Ctrl + Shift + L
+		 Abrir tela de atalhos! Ctrl + Shift + L
 		 */
 
-		// Comentário única linha
+		// ComentÃ¡rio ï¿½nica linha
 		// Ctrl + Shift + C
 
 		/*
-		 * Comentário várias linhas Ctrl + Shift +
+		 ComentÃ¡rio vÃ¡rias linhas Ctrl + Shift +
 		 */
 
 		Programa executar = new Programa();
@@ -59,7 +59,7 @@ public class Programa {
 		variavelFloat = 4.5f;
 		variavelDouble = 4.5;
 
-		// Impressão
+		// Impressï¿½o
 		System.out.println("Byte: " + variavelByte + "\n");
 		System.out.println("Boolean: " + variavelBoolean + "\n");
 		System.out.println("Char: " + variavelChar + "\n");
@@ -75,14 +75,14 @@ public class Programa {
 		// Cadeia de Caracteres
 		String variavelString;
 
-		// Toda classe em java é uma subclasse de Object
+		// Toda classe em java ï¿½ uma subclasse de Object
 		Object objeto;
 
-		// Declarando os tipos por referência
+		// Declarando os tipos por referï¿½ncia
 		variavelString = "Lorem ipsum ullamcorper tristique";
 		objeto = variavelString;
 
-		// Impressão
+		// Impressï¿½o
 		System.out.println("String: " + variavelString.toUpperCase() + "\n");
 		System.out.println("Object: " + objeto + "\n");
 
@@ -110,7 +110,7 @@ public class Programa {
 
 	public void imprimindoConsole() {
 		
-		String nome = "José";
+		String nome = "Josï¿½";
 		char sexo = 'M';
 		int idade = 25;
 		double peso = 81.78358;
